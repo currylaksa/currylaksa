@@ -52,32 +52,67 @@
 </div>
 
 <div align="center">
-  <h3>🎯 2025 Goals Progress</h3>
-  
-  | Goal | Progress |
-  |------|----------|
-  | Visit 3 new countries | 🔵🔵⚪ (2/3) |
-  | Read 24 books | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (6/24) |
-  | Learn a new language | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%) |
-  | Complete a marathon | ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (0%) |
-</div>
-
-<div align="center">
   <a href="#"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Fun Coding GIF"></a>
   <p><em>Me trying to debug my code at 3AM</em></p>
 </div>
 
 <div align="center">
-  <h3>🎮 My Life Dashboard</h3>
+  <h3>🌟 My 2025 Bucket List 🌟</h3>
   
-  | Current Level | 24 |
-  |---------------|-----|
-  | Experience | 4,827/10,000 XP |
-  | Achievement Badges | 🏆 Master Coder<br>🎓 Knowledge Seeker<br>🌐 Global Explorer<br>🎸 Music Lover |
-  | Current Quest | "Zero-Trust Based Secure Exam System" |
-  | Side Quests | "APAC Solution Challenge 2025" |
-  | Inventory | 💻 Laptop<br>☕ Coffee<br>🎧 Headphones<br>📚 Books |
+  <table>
+    <tr>
+      <th>Adventure</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>✈️ Complete 1 Solo Adventures</td>
+      <td>
+        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>📚 Read a Book</td>
+      <td>
+        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>💼 Land Dream Internship</td>
+      <td>
+        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>🏃‍♀️ Conquer Half Marathon</td>
+      <td>
+        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+      </td>
+    </tr>
+    <tr>
+      <td>🏆 Win a Hackathon</td>
+      <td>
+        <img src="https://img.shields.io/badge/ACHIEVED-brightgreen?style=for-the-badge" alt="Achieved">
+      </td>
+    </tr>
+    <tr>
+      <td>🏸 Triumph in Badminton Tournament</td>
+      <td>
+        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+      </td>
+    </tr>
+  </table>
 </div>
+
+## 🎮 My Life Dashboard
+
+| Category           | Details                                                                 |
+|--------------------|-------------------------------------------------------------------------|
+| 🎯 Current Level    | **22**                                                                  |
+| 🏅 Achievements      | 🏆 UTM Hackathon Champion (DevBoostAI) <br> 🏸 Badminton Men's Doubles Champion – ISS-YEMEN UTM |
+| 🔐 Current Quest     | "Zero-Trust Based Secure Exam System"                                  |
+| 🧩 Side Quests       | "APAC Solution Challenge 2025"                                          |
+| 🎒 Inventory         | 🎵 Music <br> ☕ Coffee <br> 🤖 ChatGPT <br> 🛠️ VS Code <br> 🐧 Linux |
+| 🏃 Hobbies            | 🏸 Badminton <br> 🏃‍♀️ Long-distance running <br> 🌲 Jungle trekking |
 
 ---
 
