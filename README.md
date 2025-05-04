@@ -58,10 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=currylaksa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!-- To fix the GitHub contribution snake graph, we need to set up a GitHub Action -->
-<!-- Create a .github/workflows/snake.yml file in your repository with the proper configuration -->
-<!-- Here's a placeholder image until the GitHub Action is set up -->
-<img src="https://github.com/currylaksa/currylaksa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+![GitHub Snake Animation](https://github.com/currylaksa/currylaksa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
