@@ -33,13 +33,6 @@
     <img alt="Linkedin Icon" width="5%">
   </picture>
 </a>
-<a href="mailto:qingyee0219@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg">
-    <img alt="Email Icon" width="5%">
-  </picture>
-</a>
 <a href="https://github.com/currylaksa">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg">
@@ -58,11 +51,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=currylaksa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/currylaksa/currylaksa/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <h3>🎯 2025 Goals Progress</h3>
+  
+  | Goal | Progress |
+  |------|----------|
+  | Visit 3 new countries | 🔵🔵⚪ (2/3) |
+  | Read 24 books | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (6/24) |
+  | Learn a new language | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%) |
+  | Complete a marathon | ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪ (0%) |
+</div>
+
+<div align="center">
+  <a href="#"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Fun Coding GIF"></a>
+  <p><em>Me trying to debug my code at 3AM</em></p>
+</div>
+
+<div align="center">
+  <h3>🎮 My Life Dashboard</h3>
+  
+  | Current Level | 24 |
+  |---------------|-----|
+  | Experience | 4,827/10,000 XP |
+  | Achievement Badges | 🏆 Master Coder<br>🎓 Knowledge Seeker<br>🌐 Global Explorer<br>🎸 Music Lover |
+  | Current Quest | "Zero-Trust Based Secure Exam System" |
+  | Side Quests | "APAC Solution Challenge 2025" |
+  | Inventory | 💻 Laptop<br>☕ Coffee<br>🎧 Headphones<br>📚 Books |
+</div>
 
 ---
 
