@@ -1,123 +1,147 @@
 <h1 align="center">Hi 👋, I'm Chan Qing Yee</h1>
 <h3 align="center">"Cybersecurity enthusiast passionate about building secure and innovative systems."</h3>
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Chan+Qing+Yee.;Computer+Science+student+specializing+in+security.;I+love+solving+complex+cybersecurity+challenges.;Let's+connect+and+make+the+digital+world+safer!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Chan+Qing+Yee.;Computer+Science+student+specializing+in+security.;I+love+solving+complex+cybersecurity+challenges.;Let's+connect+and+make+the+digital+world+safer!" alt="Typing Animation">
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=currylaksa&style=flat-square&color=brightgreen&style=for-the-badge" alt="my github badge counter" align="right"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Made_With_Passion-blue?&style=for-the-badge&color=ff69b4" align="right">
-<img alt="Static Badge" src="https://img.shields.io/badge/Author-currylaksa-violet?logo=github&color=blue&style=for-the-badge" align="right">
-
----
-
-### About:
-
-<ul>
-  <li>🎓 Computer Science student at <strong>Universiti Teknologi Malaysia</strong>, specializing in Computer Networks and Security.</li>
-  <li>🛡️ <strong>Google Cybersecurity certified</strong> with hands-on experience in secure systems and SIEM tools.</li>
-  <li>🏆 <strong>hackathon winner</strong>, including UTM Hackathon 2025 Champion for GenAI-powered platform.</li>
-  <li>💻 Skilled in <strong>JavaScript, Python, Java, C++, Flutter, React,</strong> and <strong>cybersecurity tools</strong>.</li>
-  <li>🔒 Currently working on <strong>Zero-Trust Based Secure Exam System for UTM ODL Master's Program</strong> as final year project.</li>
-  <li>🌍 Currently participating in the <strong>APAC Solution Challenge 2025</strong>.</li>
-  <li>🌐 Participated in <strong>Global Academic Visit to Singapore & Batam</strong> with DHL Asia Pacific Innovation Center.</li>
-  <li>📫 Reach me at: <a href="mailto:qingyee0219@gmail.com"><strong>qingyee0219@gmail.com</strong></a></li>
-</ul>
-
----
-
-### Connect with me:
-<p>
-<a href="https://www.linkedin.com/in/chanqingyee">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-    <img alt="Linkedin Icon" width="5%">
-  </picture>
-</a>
-<a href="https://github.com/currylaksa">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg">
-    <img alt="GitHub Icon" width="5%">
-  </picture>
-</a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=currylaksa&style=flat-square&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+  <img alt="Made with Passion" src="https://img.shields.io/badge/Made_With_Passion-blue?&style=for-the-badge&color=ff69b4"/>
+  <img alt="Author" src="https://img.shields.io/badge/Author-currylaksa-violet?logo=github&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-###
+### 👨‍💻 About Me:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=currylaksa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=currylaksa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Fun Coding GIF"></a>
-  <p><em>Me trying to debug my code at 3AM</em></p>
-</div>
-
-<div align="center">
-  <h3>🌟 My 2025 Bucket List 🌟</h3>
-  
-  <table>
-    <tr>
-      <th>Adventure</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td>✈️ Complete 1 Solo Adventures</td>
-      <td>
-        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
-      </td>
-    </tr>
-    <tr>
-      <td>📚 Read a Book</td>
-      <td>
-        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
-      </td>
-    </tr>
-    <tr>
-      <td>💼 Land Dream Internship</td>
-      <td>
-        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
-      </td>
-    </tr>
-    <tr>
-      <td>🏃‍♀️ Conquer Half Marathon</td>
-      <td>
-        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
-      </td>
-    </tr>
-    <tr>
-      <td>🏆 Win a Hackathon</td>
-      <td>
-        <img src="https://img.shields.io/badge/ACHIEVED-brightgreen?style=for-the-badge" alt="Achieved">
-      </td>
-    </tr>
-    <tr>
-      <td>🏸 Triumph in Badminton Tournament</td>
-      <td>
-        <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎮 My Life Dashboard
-
-| Category           | Details                                                                 |
-|--------------------|-------------------------------------------------------------------------|
-| 🎯 Current Level    | **22**                                                                  |
-| 🏅 Achievements      | 🏆 UTM Hackathon Champion (DevBoostAI) <br> 🏸 Badminton Men's Doubles Champion – ISS-YEMEN UTM |
-| 🔐 Current Quest     | "Zero-Trust Based Secure Exam System"                                  |
-| 🧩 Side Quests       | "APAC Solution Challenge 2025"                                          |
-| 🎒 Inventory         | 🎵 Music <br> ☕ Coffee <br> 🤖 ChatGPT <br> 🛠️ VS Code <br> 🐧 Linux |
-| 🏃 Hobbies            | 🏸 Badminton <br> 🏃‍♀️ Long-distance running <br> 🌲 Jungle trekking |
+- 🎓 Computer Science student at **Universiti Teknologi Malaysia**, specializing in Computer Networks and Security
+- 🛡️ **Google Cybersecurity certified** with hands-on experience in secure systems and SIEM tools
+- 🏆 **Hackathon winner**, including UTM Hackathon 2025 Champion for GenAI-powered platform
+- 💻 Skilled in **JavaScript, Python, Java, C++, Flutter, React,** and **cybersecurity tools**
+- 🔒 Currently working on **Zero-Trust Based Secure Exam System for UTM ODL Master's Program** as final year project
+- 🌍 Currently participating in the **APAC Solution Challenge 2025**
+- 🌐 Participated in **Global Academic Visit to Singapore & Batam** with DHL Asia Pacific Innovation Center
+- 📫 Reach me at: **[qingyee0219@gmail.com](mailto:qingyee0219@gmail.com)**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🔗 Connect with me:
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/chanqingyee" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/currylaksa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=currylaksa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=currylaksa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Fun Coding GIF">
+  </a>
+  <p><em>Me trying to debug my code at 3AM</em></p>
+</div>
+
+---
+
+### 🌟 My 2025 Bucket List:
+
+<table align="center">
+  <tr>
+    <th>Adventure</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>✈️ Complete 1 Solo Adventure</td>
+    <td>
+      <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+    </td>
+  </tr>
+  <tr>
+    <td>📚 Read a Book</td>
+    <td>
+      <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+    </td>
+  </tr>
+  <tr>
+    <td>💼 Land Dream Internship</td>
+    <td>
+      <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+    </td>
+  </tr>
+  <tr>
+    <td>🏃‍♀️ Conquer Half Marathon</td>
+    <td>
+      <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+    </td>
+  </tr>
+  <tr>
+    <td>🏆 Win a Hackathon</td>
+    <td>
+      <img src="https://img.shields.io/badge/ACHIEVED-brightgreen?style=for-the-badge" alt="Achieved">
+    </td>
+  </tr>
+  <tr>
+    <td>🏸 Triumph in Badminton Tournament</td>
+    <td>
+      <img src="https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge" alt="In Progress">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎮 My Life Dashboard:
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>🎯 Current Level</td>
+    <td><strong>22</strong></td>
+  </tr>
+  <tr>
+    <td>🏅 Achievements</td>
+    <td>🏆 UTM Hackathon Champion (DevBoostAI)<br>🏸 Badminton Men's Doubles Champion – ISS-YEMEN UTM</td>
+  </tr>
+  <tr>
+    <td>🔐 Current Quest</td>
+    <td>"Zero-Trust Based Secure Exam System"</td>
+  </tr>
+  <tr>
+    <td>🧩 Side Quests</td>
+    <td>"APAC Solution Challenge 2025"</td>
+  </tr>
+  <tr>
+    <td>🎒 Inventory</td>
+    <td>🎵 Music<br>☕ Coffee<br>🤖 ChatGPT<br>🛠️ VS Code<br>🐧 Linux</td>
+  </tr>
+  <tr>
+    <td>🏃 Hobbies</td>
+    <td>🏸 Badminton<br>🏃‍♀️ Long-distance running<br>🌲 Jungle trekking</td>
+  </tr>
+</table>
+
+---
+
+### 💻 Languages and Tools:
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -168,8 +192,11 @@
   </a>
 </p>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
+---
+
+### 🏅 Certifications:
+
+<p align="center">
   <a href="https://www.credly.com/org/google/badge/google-cybersecurity-certificate" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
   </a>
@@ -184,14 +211,20 @@
   </a>
 </p>
 
-<h3 align="left">Current Projects:</h3>
-<p align="left">
+---
+
+### 🚀 Current Projects:
+
+<p align="center">
   <img src="https://img.shields.io/badge/Final_Year_Project-Zero_Trust_Secure_Exam_System-brightgreen?style=for-the-badge" alt="Final Year Project"/>
   <img src="https://img.shields.io/badge/APAC_Solution_Challenge_2025-Participant-blue?style=for-the-badge&logo=google&logoColor=white" alt="APAC Challenge"/>
 </p>
 
-<h3 align="left">Hackathon Achievements:</h3>
-<p align="left">
+---
+
+### 🏆 Hackathon Achievements:
+
+<p align="center">
   <img src="https://img.shields.io/badge/UTM_Hackathon_2025-Champion-gold?style=for-the-badge" alt="UTM Hackathon 2025 Champion"/>
   <img src="https://img.shields.io/badge/UM_Hackathon_2025-Finalist-silver?style=for-the-badge" alt="UM Hackathon 2025 Finalist"/>
   <img src="https://img.shields.io/badge/Varsity_Hackathon_2025-Participant-bronze?style=for-the-badge" alt="Varsity Hackathon 2025"/>
