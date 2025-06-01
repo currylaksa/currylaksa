@@ -124,10 +124,6 @@
     <td>"Zero-Trust Based Secure Exam System"</td>
   </tr>
   <tr>
-    <td>🧩 Side Quests</td>
-    <td>"APAC Solution Challenge 2025"</td>
-  </tr>
-  <tr>
     <td>🎒 Inventory</td>
     <td>🎵 Music<br>☕ Coffee<br>🤖 ChatGPT<br>🛠️ VS Code<br>🐧 Linux</td>
   </tr>
@@ -217,7 +213,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Final_Year_Project-Zero_Trust_Secure_Exam_System-brightgreen?style=for-the-badge" alt="Final Year Project"/>
-  <img src="https://img.shields.io/badge/APAC_Solution_Challenge_2025-Participant-blue?style=for-the-badge&logo=google&logoColor=white" alt="APAC Challenge"/>
 </p>
 
 ---
