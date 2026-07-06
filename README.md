@@ -56,8 +56,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=currylaksa&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=currylaksa&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img alt="Profile details" src="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/default/3-stats.svg" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img alt="Top languages by repo" src="https://raw.githubusercontent.com/currylaksa/currylaksa/main/profile-summary-card-output/default/1-repos-per-language.svg" height="180" />
+  </picture>
 </p>
 
 ---
