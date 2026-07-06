@@ -1,131 +1,138 @@
 <h1 align="center">Hi 👋, I'm Chan Qing Yee</h1>
-<h3 align="center">"Fresh graduate in Computer Networks & Security — seeking Network/Security, Solutions, or Presales Engineering roles."</h3>
+<h3 align="center">Fresh graduate in Computer Science — seeking Network Security & AI Engineering roles, where I build with AI to solve real customer pain points</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Chan+Qing+Yee.;Fresh+CS+Graduate+%7C+Networks+%26+Security.;Ex-Huawei+Project+Engineer+Intern.;Seeking+Network%2FSecurity+%7C+Solutions+%7C+Presales+Roles!" alt="Typing Animation">
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=currylaksa&style=flat-square&color=brightgreen&style=for-the-badge" alt="Profile views"/>
-  <img alt="Made with Passion" src="https://img.shields.io/badge/Made_With_Passion-blue?&style=for-the-badge&color=ff69b4"/>
-  <img alt="Author" src="https://img.shields.io/badge/Author-currylaksa-violet?logo=github&color=blue&style=for-the-badge"/>
+  <a href="https://qingyee.my"><strong>qingyee.my</strong></a> ·
+  <a href="https://www.linkedin.com/in/chanqingyee">LinkedIn</a> ·
+  <a href="mailto:qingyee0219@gmail.com">qingyee0219@gmail.com</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science student at **Universiti Teknologi Malaysia**, specializing in Computer Networks and Security (CGPA: 3.90)
-- 🛡️ **Google Cybersecurity certified** with hands-on experience in Zero-Trust architecture, SIEM tools, and secure system design
-- 🏆 **Hackathon winner**, including UTM Hackathon 2025 Champion for GenAI-powered onboarding platform
-- 💻 Skilled in **Python, JavaScript (Node.js), Java, C++, SQL**, and cybersecurity/networking tools
-- 🔒 Final Year Project: **Zero-Trust Based Secure Online Examination System** — full-stack platform with JWT stage-machine MFA, browser lockdown, and 25 mapped Zero-Trust controls across 35 API endpoints
-- 🏢 Ex-**Huawei Project Engineer Intern** — automated 5G deployment workflows, managed 100+ subcontractor teams across Malaysia
-- 🌐 Participated in **Global Academic Visit to Singapore & Batam** with DHL Asia Pacific Innovation Center
-- 📫 Reach me at: **[qingyee0219@gmail.com](mailto:qingyee0219@gmail.com)**
+- 🎓 Computer Science graduate, **Universiti Teknologi Malaysia** — Computer Networks & Security (CGPA 3.90)
+- 🛡️ **Google Cybersecurity certified**, hands-on with Zero-Trust architecture, SIEM, and secure system design
+- 🥈 **DIGITEX 2026 Grand Finalist (Silver Medal)** & 🏆 **UTM Hackathon 2025 Champion**
+- 🏢 Ex-**Huawei Project Engineer Intern** — automated 5G deployment workflows, coordinated 100+ subcontractor teams across Malaysia
+- 🏸 Off the keyboard: badminton doubles champion, half-marathon finisher, jungle trekker
 
 ---
 
-### 🔗 Connect with me:
+### 🛠️ What I've Built
 
-<table><tr>
-<td><a href="https://www.linkedin.com/in/chanqingyee" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-<td><a href="https://github.com/currylaksa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></td>
-</tr></table>
+#### 🛡️ Security
 
----
+| Project | What it is |
+|---|---|
+| **[SecureExam UTM](https://github.com/currylaksa/zero-trust-exam)** 🎓 *Final Year Project* | Zero-Trust online examination platform with AI behavioral anomaly detection — JWT stage-machine MFA, browser lockdown, 25 Zero-Trust controls across 35 API endpoints. DIGITEX 2026 Silver Medal. **[Live](https://secureexam-cqy.tech)** · **[1-min demo](https://youtu.be/nyrsI8Op4BY)** |
+| **[DuoDrop](https://github.com/currylaksa/duodrop)** | AirDrop for everyone — end-to-end encrypted file transfer over WebRTC (XChaCha20-Poly1305). The server brokers the handshake and learns nothing. No app, no account. **[Live](https://duodrop.pages.dev)** |
 
-### 🎮 My Life Dashboard:
+#### 🍎 macOS Menu-Bar Apps (Swift, zero dependencies)
 
-<table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td>🎯 Current Level</td>
-    <td><strong>23</strong></td>
-  </tr>
-  <tr>
-    <td>🏅 Achievements</td>
-    <td>🏆 UTM Hackathon Champion (DevBoostAI)<br>🏸 Badminton Men's Doubles Champion – ISS-YEMEN UTM<br>🏃 Half Marathon Finisher</td>
-  </tr>
-  <tr>
-    <td>🔐 Current Quest</td>
-    <td>"Zero-Trust Based Secure Online Examination System" — FYP completion & landing first full-time role</td>
-  </tr>
-  <tr>
-    <td>🎒 Inventory</td>
-    <td>🎵 Music<br>☕ Coffee<br>🤖 Claude<br>💎 Gemini<br>🛠️ VS Code<br>🐧 Linux</td>
-  </tr>
-  <tr>
-    <td>🏃 Hobbies</td>
-    <td>🏸 Badminton<br>🏃‍♂️ Long-distance running<br>🌲 Jungle trekking</td>
-  </tr>
-</table>
+| Project | What it is |
+|---|---|
+| **[wilderfarer-bar](https://github.com/currylaksa/wilderfarer-bar)** | A tiny pixel hiker who walks in your menu bar while you work — and sets up camp when you wander off. 100% local. |
+| **[claude-usage-bar-for-mac](https://github.com/currylaksa/claude-usage-bar-for-mac)** | Native menu-bar widget showing your Claude.ai session usage %, reset countdown, and mood emoji — ~40 MB RAM. |
+| **[ramusagebar](https://github.com/currylaksa/ramusagebar)** | Tiny menu-bar RAM gauge — one Swift file. |
+
+#### 🌐 Web & Tools
+
+| Project | What it is |
+|---|---|
+| **[qingyee.my](https://github.com/currylaksa/qingyee-my)** | My personal portfolio & contact hub — Astro, Warm Rust & Cream theme. **[Visit](https://qingyee.my)** |
+| **[3AM Club](https://github.com/currylaksa/3am-club)** | The 2026 football World Cup on Malaysia time — which matches are worth losing sleep over. React 19 PWA, installable & offline. **[Live](https://3am-club.pages.dev)** |
+| **[QR//GEN](https://github.com/currylaksa/qrcode_generator_free)** | Free, ad-free QR code generator that runs 100% in your browser — no backend, no tracking, zero runtime deps. **[Live](https://currylaksa.github.io/qrcode_generator_free/)** |
+| **[claude-md](https://github.com/currylaksa/claude-md)** | A lightweight global CLAUDE.md for Claude Code — task sizing, surgical changes, verify-before-done. |
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 Languages & Tools
 
-<table><tr>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-<td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-<td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-<td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a></td>
-<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a></td>
-<td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a></td>
-<td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a></td>
-<td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a></td>
-<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-<td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-<td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a></td>
-<td><a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/></a></td>
-<td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-<td><a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a></td>
-</tr></table>
+`Python` · `JavaScript / TypeScript` · `Swift` · `Java` · `C++` · `SQL` — with `React` · `Node.js` · `Astro` · `Tailwind` · `Firebase` · `Cloudflare` · `Linux` · networking & security tooling (Zero-Trust, SIEM, Wireshark)
 
 ---
 
-### 🏅 Certifications:
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.credly.com/org/google/badge/google-cybersecurity-certificate" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"/>
-  </a>
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CCNA-Routing_&_Switching-orange?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
-  </a>
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CCNA-Enterprise_Networking-orange?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Enterprise"/>
-  </a>
-  <a href="https://www.oracle.com/cloud/free/certification.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Associate-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
-  </a>
-  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/devasc.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CCNA-DevNet_Associate-orange?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA DevNet"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=currylaksa&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=currylaksa&layout=compact&hide_border=true" alt="Top languages" height="160"/>
 </p>
 
 ---
 
-### 🚀 Current Projects:
+### 🐍 My Contributions, Being Eaten
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Final_Year_Project-Zero_Trust_Secure_Exam_System_(8100+_LOC)-brightgreen?style=for-the-badge" alt="Final Year Project"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/currylaksa/currylaksa/output/github-snake-dark.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/currylaksa/currylaksa/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-### 🏆 Hackathon Achievements:
+### 🥾 Take a Hike with the Wilderfarer
+
+> You're deep in a Malaysian jungle. The pixel hiker from my menu bar has escaped into this README.
+> The trail splits three ways. Choose wisely.
+
+<details>
+<summary>🌲 <b>Take the shaded ridge path</b></summary>
+<br>
+
+The ridge climbs hard. Your legs burn — but so does a half-marathon, and you've finished one of those.
+
+At the top, the canopy opens. Below you: 5G towers you helped deploy at Huawei, blinking across the valley.
+
+🏅 <b>Achievement unlocked: High Ground.</b> The best view comes after the steepest climb.
+
+*Psst — the hiker does this climb every day in [wilderfarer-bar](https://github.com/currylaksa/wilderfarer-bar).*
+
+</details>
+
+<details>
+<summary>🏞️ <b>Follow the river downstream</b></summary>
+<br>
+
+You follow the water. It knows where it's going — like a well-routed packet.
+
+Around the bend, a rickety rope bridge. A sign reads: <i>"Zero Trust. Verify before crossing."</i> You check every plank. All 25 of them hold.
+
+🏅 <b>Achievement unlocked: Never Trust, Always Verify.</b> That's how I built [my final year project](https://github.com/currylaksa/zero-trust-exam) too.
+
+</details>
+
+<details>
+<summary>⛺ <b>Set up camp and brew coffee</b></summary>
+<br>
+
+Smart choice. You pitch the tent, boil water, and pour a slow cup. ☕
+
+The jungle hums. Your phone has no signal, and for once, that's a feature.
+
+🏅 <b>Achievement unlocked: Touch Grass.</b> Even engineers need to recharge offline.
+
+*The Wilderfarer sets up this exact camp when you go idle. He gets it.*
+
+</details>
+
+<details>
+<summary>🗺️ <b>...or check the map for a secret trail</b></summary>
+<br>
+
+You unfold the map. In the corner, in tiny handwriting:
+
+<i>"The real trail was the README you scrolled all along."</i>
+
+🥚 <b>Secret found!</b> Your reward: a shortcut out of the jungle → <a href="https://qingyee.my"><b>qingyee.my</b></a> 🏕️
+
+</details>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UTM_Hackathon_2025-Champion-gold?style=for-the-badge" alt="UTM Hackathon 2025 Champion"/>
-  <img src="https://img.shields.io/badge/UM_Hackathon_2025-Finalist-silver?style=for-the-badge" alt="UM Hackathon 2025 Finalist"/>
-  <img src="https://img.shields.io/badge/Varsity_Hackathon_2025-Participant-bronze?style=for-the-badge" alt="Varsity Hackathon 2025"/>
+  ☕ Fueled by coffee, 🤖 built with Claude, 🌲 recharged in the jungle.<br>
+  📫 Say hi: <a href="mailto:qingyee0219@gmail.com">qingyee0219@gmail.com</a> or via <a href="https://qingyee.my">qingyee.my</a>
 </p>
-
-<!-- Still here? Let's build secure systems together! 🛡️ -->
