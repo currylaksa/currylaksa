@@ -44,6 +44,7 @@
 | **[3AM Club](https://github.com/currylaksa/3am-club)** | The 2026 football World Cup on Malaysia time — which matches are worth losing sleep over. React 19 PWA, installable & offline. **[Live](https://3am-club.pages.dev)** |
 | **[QR//GEN](https://github.com/currylaksa/qrcode_generator_free)** | Free, ad-free QR code generator that runs 100% in your browser — no backend, no tracking, zero runtime deps. **[Live](https://currylaksa.github.io/qrcode_generator_free/)** |
 | **[claude-md](https://github.com/currylaksa/claude-md)** | A lightweight global CLAUDE.md for Claude Code — task sizing, surgical changes, verify-before-done. |
+| **[象棋师父 · Xiangqi Shifu](https://github.com/currylaksa/xiangqi-shifu)** | A Chinese Chess coach that tells you *why* your move was wrong, in 中文记谱法 — the piece you hung, the attacker, the better move. Pikafish + static exchange evaluation, no LLM in the analysis. **[Demo](https://github.com/currylaksa/xiangqi-shifu/blob/main/docs/demo.gif)** |
 
 ---
 
